@@ -10,8 +10,8 @@ export const HeaderContainer = styled.header`
     gap: 0.5rem;
 
     a {
-      width: 3rem;
       height: 3rem;
+      width: 3rem;
 
       display: flex;
       justify-content: center;
