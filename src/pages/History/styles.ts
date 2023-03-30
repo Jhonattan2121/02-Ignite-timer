@@ -11,10 +11,6 @@ export const HistoryContainer = styled.main`
     font-size: 1.5rem;
     color: ${(props) => props.theme['gray-100']};
   }
-
-  pre {
-    color: ${(props) => props.theme['gray-100']};
-  }
 `
 
 export const HistoryList = styled.div`
